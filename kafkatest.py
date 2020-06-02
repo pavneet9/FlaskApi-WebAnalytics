@@ -1,3 +1,4 @@
+# files used to test the kafka server and not for the actual flask api
 from time import sleep
 from json import dumps
 from kafka import KafkaProducer
