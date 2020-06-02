@@ -1,3 +1,4 @@
+## Not part of the flask Api, Used just to test kafka server
 from kafka import KafkaConsumer
 from json import loads
 
